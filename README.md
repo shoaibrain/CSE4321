@@ -1,5 +1,5 @@
 # LightLib Library Management System (LMS)
-
+## Forked from https://github.com/wesdoyle/lightlib-lms
 A lightweight library management system built in .NET 5.0 with Entity Framework Core.  Enables library administrators to manage Library Assets, Patrons, and Branches with basic functionality.
 
 This project is intended to serve as a long-term resource for small .NET web monoliths.
